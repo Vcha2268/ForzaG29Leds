@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ForzaG29Leds.Tests/ForzaG29Leds.Tests.csproj" />
+  <Project Path="ForzaG29Leds/ForzaG29Leds.csproj" />
+</Solution>
